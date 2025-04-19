@@ -113,3 +113,30 @@
 .card p {
     color: #6D747D;
 }
+
+.quote-container {
+    background-color: #E5E7EB;
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.quote {
+    width: 800px;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center; */
+}
+
+.quote p {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.quote span {
+    float: inline-end;
+    font-size: 18px;
+    font-weight: 700;
+}
