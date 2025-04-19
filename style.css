@@ -140,3 +140,34 @@
     font-size: 18px;
     font-weight: 700;
 }
+
+.action-container {
+    padding: 100px 200px;
+}
+
+.action {
+    background-color: #3B82f6;
+    border-radius: 10px;
+    padding: 50px 90px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.action-content h2 {
+    color: #F9FAF8;
+    font-weight: 600;
+}
+
+.action-content p {
+    color: #F9FAF8;
+}
+
+.action-button button {
+    color: #F9FAF8;
+    border: 3px solid #F9FAF8;
+    padding: 5px 30px;
+    background-color: #3B82f6;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 5px;
+}
